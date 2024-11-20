@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.AssemblyInfo.cs
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.exe
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.deps.json
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.runtimeconfig.json
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.runtimeconfig.dev.json
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.dll
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\ref\myfirstclr.dll
+C:\Users\USER\Desktop\myfirstclr\bin\Debug\net5.0\myfirstclr.pdb
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.dll
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\ref\myfirstclr.dll
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.pdb
+C:\Users\USER\Desktop\myfirstclr\obj\Debug\net5.0\myfirstclr.genruntimeconfig.cache
